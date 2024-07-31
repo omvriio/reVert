@@ -13,7 +13,7 @@ import shutil
 import openai
 
 os.environ["OPENAI_API_KEY"] = (
-    "sk-proj-XF1IkK9Zg6Auw0gkS6frT3BlbkFJvclzipYWi4W1mA523XBo"
+    ""
 )
 llm = ChatOpenAI(model="gpt-4o")
 CHROMA_PATH = "/teamspace/studios/this_studio/Hackton/Chroma"
