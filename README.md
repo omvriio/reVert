@@ -12,7 +12,7 @@ Welcome to Revert, a Recycling Platform powered by AI! This platform allows user
 
 Our mission is to encourage recycling by rewarding users for their contributions to a greener planet.
 
-![Platform Landing Page](assets\intro.png)
+![Platform Landing Page](assets/intro.png)
 
 # Tech Stack
 
