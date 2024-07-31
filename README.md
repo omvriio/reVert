@@ -1,4 +1,5 @@
-#### reVert
+<h1 style="font-size: 3em; text-align: center;">reVert</h1>
+---
 # Project Overview
 
 Welcome to Revert, a Recycling Platform powered by AI! This platform allows users to:
