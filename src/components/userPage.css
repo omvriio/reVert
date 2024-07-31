@@ -1,0 +1,90 @@
+.user-page {
+  padding: 3% 2.5%;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 1rem;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+}
+
+.user-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid #e4e4e4;
+  background-color: antiquewhite;
+}
+
+.user-page > header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.user-info > p {
+  margin: 0;
+}
+
+.user-info > h1 {
+  margin: 0;
+}
+
+.user-page > main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 40px;
+  padding-left: 15%;
+}
+
+.user-balance {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-metrics {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(2, 100px);
+  grid-template-rows: repeat(2, 100px);
+  gap: 40px;
+}
+
+.user-stats-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+}
+
+.row1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.row2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.type-icon {
+  width: 70px;
+}
+
+.type-container {
+  width: 200px;
+}

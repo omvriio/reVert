@@ -1,0 +1,23 @@
+.registration {
+  padding: 3% 2.5%;
+  width: 500px;
+  height: 100vh;
+  margin: 0 auto;
+  border-radius: 1rem;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+}
+
+.registration-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 1%;
+  margin-top: 100px;
+}
+
+p {
+  color: gray;
+}

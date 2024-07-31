@@ -1,0 +1,24 @@
+.scanner-page {
+  padding: 3% 2.5%;
+  width: 500px;
+  height: 100vh;
+  margin: 0 auto;
+  border-radius: 1rem;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+}
+
+.scanner-page > main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 70vh;
+}
+
+.scanner-page > footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

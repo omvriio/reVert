@@ -1,0 +1,63 @@
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 40px;
+  padding: 3% 2.5%;
+  width: 500px;
+  height: 100vh;
+  margin: 0 auto;
+  border-radius: 1rem;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+}
+
+.landing-page > header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.logo {
+  width: 250px;
+  height: 100px;
+}
+
+.sec1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sec1-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.morocco {
+  width: 40px;
+  height: 40px;
+  margin-bottom: -3%;
+}
+
+.sec2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.sec2-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 30px;
+}

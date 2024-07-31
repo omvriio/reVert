@@ -1,0 +1,33 @@
+.shope-page {
+  padding: 3% 2.5%;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 1rem;
+  border: 1px solid #e4e4e4;
+  background-color: white;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 10px; /* Adjust the gap between the grid items as needed */
+  padding: 10px; /* Adjust the padding around the grid as needed */
+}
+
+.grid-item {
+  background-color: #ddd;
+  border: 1px solid #333;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.shope-page > header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
