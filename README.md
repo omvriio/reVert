@@ -1,4 +1,4 @@
-<h1 style="font-size: 3em; text-align: center;">reVert</h1>
+<h1 style="font-size: 5em; text-align: center;">reVert</h1>
 
 # Project Overview
 
