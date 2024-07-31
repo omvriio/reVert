@@ -100,7 +100,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/moebachar/revert.git
+   git clone https://github.com/omvriio/revert.git
    cd recycling-platform
    ```
 
@@ -182,8 +182,8 @@ This AI-driven approach ensures accurate classification and fair valuation of re
 
 For any inquiries or support, please reach out to us through our GitHub profiles:
 
-- **Mohamed BACHAR:** [GitHub Profile](https://github.com/moebachar)
-- **Norddine SAIDI:** [GitHub Profile](https://github.com/ITSAIDI)
 - **Omar MARGHADI:** [GitHub Profile](https://github.com/omvriio)
+- **Mohamed BACHAR:** [GitHub Profile](https://github.com/moebachar)
+- **Noureddine SAIDI:** [GitHub Profile](https://github.com/ITSAIDI)
 
 We are happy to assist you with any questions or feedback regarding the platform.
